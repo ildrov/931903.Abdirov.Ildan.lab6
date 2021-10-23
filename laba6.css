@@ -1,0 +1,61 @@
+﻿
+body {
+    margin: 0;
+}
+.kot {
+    display:block;
+    position: relative;
+    margin: 0 auto;
+    padding-top: 20px;
+    width: 400px;
+    height: 300px;
+}
+
+.pesik {
+    
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    padding-top: 20px;
+    width: 400px;
+    height: 300px;
+}
+
+
+.contentpage {
+    width:900px;
+    border: 2px solid black;
+
+}
+
+button {
+    font-size:x-large;
+    padding:10px;
+    font-family:Arial;
+    margin:0 0 0 0;
+    width:300px;
+    background: red;
+    margin:0 auto;
+    position: relative;
+    border: 1px solid black;
+    color: white;
+}
+
+.right {
+    
+    float: right;
+    background-color: green;
+    height: 500px;
+    width: 50%;
+}
+
+.left {
+    background-color: blue;
+    height: 500px;
+    width: 50%;
+}
+
+
+h3{
+    font-family:Arial
+}
